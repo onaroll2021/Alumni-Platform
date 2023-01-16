@@ -1,0 +1,75 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../fonts/Montserrat/Montserrat-VariableFont_wght.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'SegoeUI';
+	src: url('../fonts/Segoe UI/segoeui.ttf')  format('truetype');
+}
+
+body {
+	margin-top: 110px;
+	font-family: 'Montserrat';
+	margin-bottom: 250px;
+}
+p {
+	font-size: 16px;
+}
+
+.navbar-fixed-top {
+	min-height: 80px;
+	background-color: #FCFCFC;
+	border: none;
+}
+
+.navbar-default .navbar-header {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	line-height: 60px;
+}
+
+.navbar-default .navbar-header > a.navbar-brand {
+	padding: 0px;
+	padding-right: 15px;
+}
+
+.navbar-default .navbar-header > a.navbar-brand > img {
+	height: 60px;
+	margin-top: -3px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.navbar-default .navbar-nav > li > a {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background: none;
+	font-size: 18px;
+	color: #444444;
+}
+
+.navbar-default .navbar-nav > li.active > a {
+	background: none !important;
+	color: #af885f !important;
+}
+.home p {
+	font-size: 17px;
+}
+.home li {
+	font-size: 17px;
+}
+.home {
+	font-size: 17px;
+}
+.home .radio-inline {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.home .question {
+	margin-bottom: 5px;
+}
+.form-input {
+	border-radius: 20px;
+}

@@ -1,0 +1,59 @@
+.edit-short-bio{
+	position: relative;
+}
+.edit-short-bio-word-count-button {
+	position:absolute;
+}
+
+.edit-btns {
+    margin-top: 20px;
+    min-width: 100px;
+    border-radius: 10px;
+    margin: 0 0 20px 10px;
+}
+
+.form-text-area {
+    min-height: 200px;
+}
+
+.form-text-area-label {
+    margin-left: 100px
+}
+/*
+Applicant Dashboard
+*/
+.headshot {
+	position:relative
+}
+.icon-camera {
+	position: absolute;
+	right:-20px;
+	top: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 5px;
+	font-weight: 600;
+}
+.table-sections {
+	font-size: 16px;
+}
+.table-sections a {
+	text-decoration: none;
+}
+.btn-table {
+	padding: 2px 7px;
+}
+.btn-footer {
+	font-size: 14px;
+	padding: 3px 15px;
+}
+.table > tbody > tr.success > td {
+	background-color: #FFD8A0;
+}
+.table > tbody > tr.warning > td {
+	background-color: #CBDDEC;
+}
+.edit_file_button {
+	border-radius: 0% 20px 0% 20px;
+
+}

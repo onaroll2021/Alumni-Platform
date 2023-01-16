@@ -1,0 +1,26 @@
+/*
+Text parsed from settings
+*/
+.parseText p {
+	margin-bottom: 0px;
+	font-size: 17px;
+}
+.parseText .break {
+	margin-top: 5px;
+	font-size: 10px;
+}
+.parseText h1 {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.parseText h2 {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+.parseText h3 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.parseText a {
+	text-decoration: none !important;
+}

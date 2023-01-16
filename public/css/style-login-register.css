@@ -1,0 +1,27 @@
+/*
+Login and Register Styles
+*/
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 5px;
+	font-weight: 600;
+}
+.panel-dialog {
+	margin-top: 25px;
+}
+
+.btn-submit {
+	font-size: 18px;
+}
+
+.checkbox {
+	font-size: 16px;
+}
+
+.panel-dialog .form-group label {
+	font-size: 18px;
+	padding-left: 5px;
+}
+
+.panel-dialog .form-group p.help-block {
+	padding-left: 5px;
+}

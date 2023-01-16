@@ -1,0 +1,82 @@
+/*
+Application Editing/Viewing Styles
+*/
+body {
+	margin-bottom: 200px;
+}
+.btn-action {
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.form-main {
+	font-size: 17px;
+}
+.form-main input {
+	font-size: 16px;
+}
+.form-main p.help-block {
+	font-size: 15px;
+	//color: #818181;
+	color: #D9D9D9;
+}
+.form-main .col-tight {
+	padding-right: 5px !important;
+	padding-left: 5px !important;
+}
+.form-main ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #C7C7C7;
+}
+.form-main :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color: #C7C7C7;
+   opacity:  1;
+}
+.form-main ::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color: #C7C7C7;
+   opacity:  1;
+}
+.form-main :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: #C7C7C7;
+}
+.form-main .form-input {
+	display: none;
+}
+.form-main .form-static {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+.form-main textarea {
+	resize: vertical;
+	min-height: 200px;
+}
+.bar {
+    height: 18px;
+    background: green;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+.essay-prompt li {
+	font-size: 17px;
+}
+.essay-prompt p {
+	font-size: 17px;
+}

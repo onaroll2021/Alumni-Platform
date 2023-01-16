@@ -1,0 +1,19 @@
+.top-info {
+	margin-top: 5px;
+}
+.top-info p {
+	font-size: 18px;
+}
+.top-info span.title {
+	color: #aaa;
+	margin-right: 10px;
+	font-size: 16px;
+}
+
+.app-summary .table-sections {
+}
+.app-summary .table-sections td {
+}
+.panel-heading.title {
+	font-size: 18px;
+}

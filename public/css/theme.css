@@ -1,0 +1,14 @@
+/* Primary Button Theme */
+.btn-primary, .btn-primary:focus, .btn-primary:active:focus, .btn-primary:active {
+	background-color: #485077;
+	border-color: #31385D;
+	outline: 0 !important;
+}
+.btn-primary:hover {
+	background-color: #31385D;
+	border-color: #1D264E;
+}
+.btn-primary.disabled, .btn-primary.disabled:hover {
+	background-color: #7F84A0;
+	border-color: #5A6285;
+}
